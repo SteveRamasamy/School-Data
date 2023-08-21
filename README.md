@@ -11,7 +11,11 @@ Contrary to intuition, there exists no correlation between increased per-student
 Key Takeaways:
 
 Pass rates in key subjects surpass the overall pass rate with positive support, which may include financial assistance.
+
 Both government and independent schools perform equally well among the top schools, but government schools are among the poorest performers.
+
 Greater budget allocation does not guarantee higher scores in key subjects and may even lead to negative performance in other subject areas.
+
 Redistributing the budget towards other subject areas could enhance the overall pass rate for a balanced outcome.
+
 Financial support positively impacts student performance across all years.

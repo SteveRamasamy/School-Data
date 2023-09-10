@@ -19,3 +19,14 @@ Greater budget allocation does not guarantee higher scores in key subjects and m
 Redistributing the budget towards other subject areas could enhance the overall pass rate for a balanced outcome.
 
 Financial support positively impacts student performance across all years.
+
+Data Outputs
+![image](https://github.com/SteveRamasamy/School-Data/assets/142780119/a89c4482-ec4f-4313-a00e-04f7535bb59d)
+![image](https://github.com/SteveRamasamy/School-Data/assets/142780119/08c4c4bc-8c5c-4502-98c5-9f04faa0ea33)
+![image](https://github.com/SteveRamasamy/School-Data/assets/142780119/d6330c04-812a-4a4e-8188-01c6e1bb6c1d)
+![image](https://github.com/SteveRamasamy/School-Data/assets/142780119/7b91b679-badd-4a63-9d9b-63891b9c7a33)
+
+
+
+
+

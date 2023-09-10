@@ -1,4 +1,4 @@
-# School-Data
+# School Performance Analysis
 School Analysis
 In the school summary, both critical areas, Math and Reading skills, demonstrate nearly identical performance, falling within a 70-point range of average grades. When comparing the pass rates in Math and Reading to the overall pass rate, it becomes evident that these pivotal subjects yield superior outcomes, translating into a significant scoring advantage of at least 10 percent more in Math and Reading scores compared to the overall passing rate. However, a more comprehensive analysis will delve into the potential impact of budget allocation on enhancing performance in these key subjects, scrutinizing the performance at the school level.
 
